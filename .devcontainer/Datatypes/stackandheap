@@ -1,0 +1,22 @@
+// Stack(Primitive) and Heap(Non-Primitive)
+// let myyoutube = "codehelp"
+// let anotheryoutube = myyoutube
+// anotheryoutube="codeaurchai"
+// console.log(myyoutube)
+// console.log(anotheryoutube)
+
+// let userOne =  {
+//     emailId: "xyz@google.com",
+//     upi: "paytm"
+// }
+// let userTwo = userOne
+// userTwo.emailId = "abc@google.com"
+
+// console.log(userOne.emailId)
+// console.log(userTwo.emailId)
+
+/*-----------------------------------------------------------------------------------------*/
+const name = "chirag"
+const repoCount  = 5
+console.log(name + repoCount + ":Value");
+console.log(`Hello my name is ${name} and my repo count is ${repoCount}`)
