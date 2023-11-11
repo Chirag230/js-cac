@@ -29,7 +29,7 @@
 // console.log(loginUserName("Chirag"));
 
 // here ... is called rest operator
-//function calculateCartPrice(...num1){
+// function calculateCartPrice(...num1){
 //     return num1
 // }
 // console.log(calculateCartPrice(200,350,435));
